@@ -1,0 +1,10 @@
+S1: No objects detected
+S2: No objects detected
+S3: O3.jpg, O4.jpg, O5.jpg, O6.jpg
+S4: No objects detected
+S5: No objects detected
+S6: No objects detected
+S7: No objects detected
+S8: O5.jpg
+S9: No objects detected
+S10: No objects detected
