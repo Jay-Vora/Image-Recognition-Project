@@ -1,0 +1,90 @@
+Scene: S1_front
+Detected Objects: O1
+
+Scene: S1_left
+Detected Objects: O1
+
+Scene: S1_right
+Detected Objects: O1
+
+Scene: S2_front
+Detected Objects: O1, O5, O8
+
+Scene: S2_left
+Detected Objects: O1, O5
+
+Scene: S2_right
+Detected Objects: O1, O5
+
+Scene: S3_front
+Detected Objects: O1, O2, O5
+
+Scene: S3_left
+Detected Objects: O1, O2, O5
+
+Scene: S3_right
+Detected Objects: O1, O1, O5
+
+Scene: S4_front
+Detected Objects: O1, O2, O3, O5
+
+Scene: S4_left
+Detected Objects: O1, O2, O3
+
+Scene: S4_right
+Detected Objects: O1, O1, O2, O3, O5
+
+Scene: S5_front
+Detected Objects: O1, O2, O3, O5, O6
+
+Scene: S5_left
+Detected Objects: O1, O2, O3, O6
+
+Scene: S5_right
+Detected Objects: O1, O1, O3, O5, O6
+
+Scene: S6_front
+Detected Objects: O1, O2, O3, O5, O6, O8
+
+Scene: S6_left
+Detected Objects: O1, O2, O3, O5, O6, O8
+
+Scene: S6_right
+Detected Objects: O1, O2, O3, O5, O6, O8
+
+Scene: S7_front
+Detected Objects: O1, O2, O3, O4, O5, O6, O8
+
+Scene: S7_left
+Detected Objects: O1, O2, O3, O4, O6, O8
+
+Scene: S7_right
+Detected Objects: O1, O1, O2, O3, O4, O5, O6, O8
+
+Scene: S8_front
+Detected Objects: O1, O2, O3, O5, O6, O7, O8
+
+Scene: S8_left
+Detected Objects: O1, O3, O7
+
+Scene: S8_right
+Detected Objects: O1, O2, O3, O5, O6, O7, O8
+
+Scene: S9_front
+Detected Objects: O1, O2, O3, O5, O6, O7, O8
+
+Scene: S9_left
+Detected Objects: O1, O2, O3, O4, O5, O6, O7, O8
+
+Scene: S9_right
+Detected Objects: O1, O2, O3, O4, O5, O6, O7, O8
+
+Scene: S10_front
+Detected Objects: O1, O2, O3, O5, O6, O7, O8, O9
+
+Scene: S10_left
+Detected Objects: O1, O3, O6, O7, O8, O9
+
+Scene: S10_right
+Detected Objects: O1, O2, O3, O4, O5, O6, O7, O8, O9
+
